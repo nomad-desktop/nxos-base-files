@@ -23,4 +23,4 @@
 printf "\n"
 printf "https://nxos.org\n"
 printf "Nitrux Latinoamericana S.C.\n"
-printf "© 2020 Some Rights Reserved.\n"
+printf "(c) 2020 Some Rights Reserved.\n"
