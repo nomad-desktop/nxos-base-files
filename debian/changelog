@@ -1,3 +1,9 @@
+base-files (12.0.4+nitrux) bionic; urgency=high
+
+  * Update package.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Fri, 24 Apr 2020 01:26:00 -0005
+
 base-files (12.0.3.2+nitrux) bionic; urgency=high
 
   * Update package.
