@@ -21,6 +21,6 @@
 #    51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
 
 printf "\n"
-printf "https://nxos.org\n"
-printf "Nitrux Latinoamericana S.C.\n"
-printf "(c) 2020 Some Rights Reserved.\n"
+printf " * https://nxos.org\n"
+printf " * Nitrux Latinoamericana S.C.\n"
+printf " * © 2020 Some Rights Reserved.\n"
